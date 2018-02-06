@@ -1,0 +1,2 @@
+# Peer2Peer-DistributedIndex
+This project implements a Peer to Peer system to enquire information about RFC files and download them. A distributed index is used at each Peer that contains information about the files that each Peer in the registered network has. Peer to Peer system is used because it makes the entire system less complex as every peer can act as both a server and a client. A dedicated server is not required.
